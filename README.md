@@ -1,2 +1,2 @@
-# MOAT
-Thesis work
+# MOAT flux surrounding sunspots
+
